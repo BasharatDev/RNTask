@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729329881109",
+    "project_id": "rntask-9c077",
+    "storage_bucket": "rntask-9c077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729329881109:android:7d13b88e7ed8b82b08fe1c",
+        "android_client_info": {
+          "package_name": "com.rntask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYYXHWyanuCXtUdHR4nTPL-MKHf-_elg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
